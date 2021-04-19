@@ -1,0 +1,10 @@
+D:\KK3\Kalkulator_Defia\Kalkulator_Defia\bin\Debug\Kalkulator_Defia.exe.config
+D:\KK3\Kalkulator_Defia\Kalkulator_Defia\bin\Debug\Kalkulator_Defia.exe
+D:\KK3\Kalkulator_Defia\Kalkulator_Defia\bin\Debug\Kalkulator_Defia.pdb
+D:\KK3\Kalkulator_Defia\Kalkulator_Defia\obj\Debug\Kalkulator_Defia.csprojAssemblyReference.cache
+D:\KK3\Kalkulator_Defia\Kalkulator_Defia\obj\Debug\Kalkulator_Defia.Form1.resources
+D:\KK3\Kalkulator_Defia\Kalkulator_Defia\obj\Debug\Kalkulator_Defia.Properties.Resources.resources
+D:\KK3\Kalkulator_Defia\Kalkulator_Defia\obj\Debug\Kalkulator_Defia.csproj.GenerateResource.cache
+D:\KK3\Kalkulator_Defia\Kalkulator_Defia\obj\Debug\Kalkulator_Defia.csproj.CoreCompileInputs.cache
+D:\KK3\Kalkulator_Defia\Kalkulator_Defia\obj\Debug\Kalkulator_Defia.exe
+D:\KK3\Kalkulator_Defia\Kalkulator_Defia\obj\Debug\Kalkulator_Defia.pdb
